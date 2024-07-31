@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.post {
+    border: 1px solid #ccc;
+    padding: 16px;
+    margin: 16px 0;
+}
+
+button {
+    margin-right: 8px;
+}
